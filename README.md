@@ -1,1 +1,1 @@
-# Blynk Project
+# Blynk : The Personalized desktop assistant
